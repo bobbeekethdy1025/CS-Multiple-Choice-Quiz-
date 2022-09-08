@@ -1,4 +1,5 @@
 # CS-Multiple-Choice-Quiz
+<<<<<<< HEAD
 
 https://github.com/bobbeekethdy1025/CS-Multiple-Choice-Quiz-
 https://bobbeekethdy1025.github.io/CS-Multiple-Choice-Quiz-/
@@ -18,3 +19,5 @@ You will also be prompted to enter your first and last name into the storage.
 To play again, you can refresh the browser but your old scores will be in the local storage.
 
 Thank for you taking the time to read this.
+=======
+>>>>>>> 61f8ef82862a155f14ec14d2de7ffa5429496135
